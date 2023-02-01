@@ -1,7 +1,7 @@
 /*
 Author: Carrie Yu
 Course: CSCI-135
-Instructor: Genady Maryash
+Instructor: Michael Zamanksy
 Assignment: Number of days in a given month, Lab1D
 
 Asks the user to input the year and the month (1-12) and prints the number of days in that month (taking into account leap years)
