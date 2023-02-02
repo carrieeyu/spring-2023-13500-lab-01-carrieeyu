@@ -7,6 +7,8 @@ Assignment: Number of days in a given month, Lab1D
 Asks the user to input the year and the month (1-12) and prints the number of days in that month (taking into account leap years)
 */
 
+#include <iostream>
+
 int main(){
 	int year;
 	int month;
